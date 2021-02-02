@@ -1,0 +1,5 @@
+Some things to remember
+
+To reload after compiling dwm: alt+shift+q > $ exit > login
+
+New terminal window: alt+shift+enter
